@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto 📚
 
-Este projeto é parte de um curso introdutório sobre Next.js. No início do curso, aprendemos que o Next.js oferece a capacidade de renderização tanto do lado do servidor quanto do cliente, além de poder gerar páginas estáticas durante o processo de build. 
+Este projeto foi desenvolvido  com o framework Next.js. Nele aprendemos que o Next.js oferece a capacidade de renderização tanto do lado do servidor quanto do cliente, além de poder gerar páginas estáticas durante o processo de build. 
 Exploramos também como o Next.js busca os dados da aplicação usando `GetServerSideProps` ou `GetStaticProps` para implementar diferentes estratégias de renderização e criamos o arquivo `next.config.js` que permite modificações de configurações, como redirecionamentos e adição de barras finais nas URLs automaticamente.
 
 ![Imagem do projeto](./public/images/imagem_projeto.png)
